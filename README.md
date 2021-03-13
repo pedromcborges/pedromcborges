@@ -8,7 +8,7 @@ My name is Pedro Borges. I work as a Backend Developer at Zup Innovation.
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=pedromcborges&repo=pedromcborges&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![Go](https://img.shields.io/badge/-Go-05122A?style=flat&color=green)&nbsp;![NodeJS](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![Go](https://img.shields.io/badge/-Go-05122A?style=flat&color=green)&nbsp;![NodeJS](https://img.shields.io/badge/-NodeJs-05122A?style=flat&color=green)
 
 
 ### Analytics ⚙️
