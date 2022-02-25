@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Pedro Borges. I work as a Backend Developer at Zup Innovation.
+My name is Pedro Borges. I work as a Software Engineer at Aubay Portugal.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=pedromcborges&repo=pedromcborges&countColorcountColor)
 
