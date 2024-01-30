@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Pedro Borges. I work as a Software Engineer at Aubay Portugal.
+My name is Pedro Borges and I work as a Software Engineer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=pedromcborges&repo=pedromcborges&countColorcountColor)
 
